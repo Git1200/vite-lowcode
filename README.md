@@ -1,12 +1,3 @@
-<!--
- * @Descripttion: 说明
- * @version: v1.0.0
- * @Author: kml <1053182739@qq.com>
- * @Date: 2021-12-21 17:21:04
- * @LastEditors: kml <1053182739@qq.com>
- * @LastEditTime: 2021-12-24 20:27:54
- * @FilePath: \vite-lowcore\README.md
--->
 # Vue 3 + Typescript + Vite
 ## TypeScript
 + TypeScript 编译器选项

@@ -10,9 +10,9 @@
     "lint:create": "eslint --init"
   },
   "dependencies": {
+    "qs": "^6.10.2",
     "vue": "^3.2.25",
-    "vue-router": "^4.0.12",
-    "vuex": "^4.0.2"
+    "vue-router": "^4.0.12"
   },
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",

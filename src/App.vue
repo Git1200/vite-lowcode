@@ -6,7 +6,8 @@ import HelloWorld from './components/HelloWorld.tsx'
 
 <template>
   <div id="lowcode-app">
-    <router-view/>
+    <HelloWorld msg="Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup" />
+    <!-- <router-view/> -->
   </div>
 </template>
 
